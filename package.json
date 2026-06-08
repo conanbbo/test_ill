@@ -1,0 +1,13 @@
+{
+  "name": "creator-portfolio-static",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "serve -p 3000 .",
+    "start": "serve -p 3000 .",
+    "build": "echo \"No build step required for a static site\""
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
